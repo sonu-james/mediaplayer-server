@@ -1,0 +1,140 @@
+{
+  "videos": [
+    {
+      "caption": "illuminati",
+      "image": "https://i.ytimg.com/vi/L0yEMl8PXnw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "id": 1
+    },
+    {
+      "caption": "malare",
+      "image": "https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/yjXvnPPHgMYvmVf2TGShXNKLHTl.jpg",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "id": 2
+    },
+    {
+      "caption": "Armadam",
+      "image": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/1/24/aavesham-fahadh.jpg",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "id": 3
+    },
+    {
+      "caption": "Kuthandram",
+      "image": "https://i.ytimg.com/vi/9AizchSQURA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "id": 4
+    },
+    {
+      "caption": "Therevaste",
+      "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/5feb3b4e22d117001cd66bf7.jpg",
+      "url": "https://www.youtube.com/embed/8gxi74R5vM1",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Thamil",
+      "allVideos": [
+        {
+          "caption": "Armadam",
+          "image": "https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2024/1/24/aavesham-fahadh.jpg",
+          "url": "https://www.youtube.com/embed/n></iframe>",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Malayalam",
+      "allVideos": [
+        {
+          "caption": "malare",
+          "image": "https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/yjXvnPPHgMYvmVf2TGShXNKLHTl.jpg",
+          "url": "https://www.youtube.com/embed/n></iframe>",
+          "id": 2
+        },
+        {
+          "caption": "illuminati",
+          "image": "https://i.ytimg.com/vi/L0yEMl8PXnw/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/n></iframe>",
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Hindi",
+      "allVideos": [
+        {
+          "caption": "Therevaste",
+          "image": "https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/5feb3b4e22d117001cd66bf7.jpg",
+          "url": "https://www.youtube.com/embed/8gxi74R5vM1",
+          "id": 5
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "illuminati",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "21/06/2024, 00:04:25",
+      "id": 1
+    },
+    {
+      "caption": "malare",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "21/06/2024, 00:09:26",
+      "id": 2
+    },
+    {
+      "caption": "illuminati",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "21/06/2024, 09:15:38",
+      "id": 3
+    },
+    {
+      "caption": "Kuthandram",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "21/06/2024, 09:42:49",
+      "id": 4
+    },
+    {
+      "caption": "illuminati",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "21/06/2024, 09:44:31",
+      "id": 5
+    },
+    {
+      "caption": "Kuthandram",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "24/06/2024, 15:05:12",
+      "id": 6
+    },
+    {
+      "caption": "malare",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "24/06/2024, 15:39:51",
+      "id": 7
+    },
+    {
+      "caption": "Kuthandram",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "24/06/2024, 22:39:21",
+      "id": 8
+    },
+    {
+      "caption": "malare",
+      "url": "https://www.youtube.com/embed/n></iframe>",
+      "timeStamp": "25/06/2024, 22:21:27",
+      "id": 9
+    },
+    {
+      "caption": "Therevaste",
+      "url": "https://www.youtube.com/embed/8gxi74R5vM1",
+      "timeStamp": "25/06/2024, 22:21:50",
+      "id": 10
+    }
+  ]
+}
